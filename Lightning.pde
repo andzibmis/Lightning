@@ -21,7 +21,7 @@ void draw () {
   
 }
 void mousePressed () {
-	background (0);
+  background (0);
   redraw ();
   startX = mouseX;
   startY = mouseY;
